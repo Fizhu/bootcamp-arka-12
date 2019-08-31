@@ -19,6 +19,9 @@ datadiri = {'biodata' : {
     'interest_in_coding' : True
 }}
 
-j = json.dumps(datadiri, indent=2)
-
-print(j)
+def biodata(x):
+    j = json.dumps(x, indent=2)
+    print(j)
+    
+    
+biodata(datadiri)
