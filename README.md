@@ -1,4 +1,4 @@
-# Jawaban Test Bootcamp Arkademy Batch 12
+# Jawaban Test Bootcamp Arkademy Batch 12 Kloter 1
 
 
 JSON adalah format data yang digunakan untuk pertukaran dan penyimpanan data.
